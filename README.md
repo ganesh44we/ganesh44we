@@ -1,1 +1,4 @@
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ganesh44we&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=320" /><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ganesh44we&layout=compact&langs_count=8&theme=vision-friendly-dark" />
+<div style="display: flex; flex-wrap: wrap; gap: 2px; align-items: flex-start;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ganesh44we&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=320" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ganesh44we&layout=compact&langs_count=8&theme=vision-friendly-dark" />
+</div>
