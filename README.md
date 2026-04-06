@@ -64,23 +64,6 @@ ganesh = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ganesh44we&show_icons=true&theme=radical&border_color=833ab4&title_color=fcb045&icon_color=fd1d1d&text_color=ffffff&bg_color=0d1117" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh44we&layout=compact&theme=radical&border_color=833ab4&title_color=fcb045&text_color=ffffff&bg_color=0d1117" height="180"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ganesh44we&theme=radical&border=833ab4&ring=fcb045&fire=fd1d1d&currStreakLabel=fcb045)
-
-</div>
-
----
-
 
 
 ---
