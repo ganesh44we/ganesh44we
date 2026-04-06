@@ -15,27 +15,13 @@
 
 </div>
 
----
 
-## 🚀 About Me
-
-```python
-ganesh = {
-    "focus":     ["HFT", "Quant Finance", "ML/DL", "Data Engineering"],
-    "languages": ["Python", "SQL", "Bash"],
-    "domains":   ["Orderbook Analytics", "Alpha Research", "API Reliability"],
-    "tools":     ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Argparse"],
-    "currently": "Building data pipelines & RL-based trading systems 🔥"
-}
-```
-
----
 
 ## 🧠 What I Build
 
 <div align="center">
 
-| 📈 HFT & Quant | 🤖 ML / Deep Learning | ⚙️ Data Engineering |
+| HFT & Quant | ML / Deep Learning | Data Engineering |
 |:---:|:---:|:---:|
 | Level-II Orderbook | LSTM / Transformer models | CLI Data Pipelines |
 | Futures Strategies | Reinforcement Learning | CSV / JSON / XML Parsers |
