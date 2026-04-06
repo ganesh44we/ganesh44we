@@ -64,17 +64,6 @@ ganesh = {
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-[![HFT-ML-DL](https://github-readme-stats.vercel.app/api/pin/?username=ganesh44we&repo=HFT-ML-DL&theme=radical&border_color=833ab4)](https://github.com/ganesh44we/HFT-ML-DL)
-[![api-reliability-rl](https://github-readme-stats.vercel.app/api/pin/?username=ganesh44we&repo=api-reliability-rl&theme=radical&border_color=fd1d1d)](https://github.com/ganesh44we/api-reliability-rl)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
