@@ -72,6 +72,6 @@ ganesh = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcb045,50:fd1d1d,100:833ab4&height=100&section=footer" width="100%"/>
 
-*"Markets are driven by data. I just make sure the data pipeline never breaks."* 🚀
+*"Markets are driven by data. I just make sure the data pipeline never breaks."* just playing my part :)
 
 </div>
