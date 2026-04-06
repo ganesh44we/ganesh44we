@@ -48,9 +48,6 @@
 
 </div>
 
----
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcb045,50:fd1d1d,100:833ab4&height=100&section=footer" width="100%"/>
