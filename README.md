@@ -17,7 +17,7 @@
 
 
 
-## 🧠 What I Build
+##  what I did?
 
 <div align="center">
 
@@ -50,9 +50,6 @@
 
 ---
 
-
-
----
 
 <div align="center">
 
